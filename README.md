@@ -6,11 +6,11 @@ Thank you for visiting my page!
 <br> Wish me good luck!✨
 <br> 
 <br>
-Find me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/bungaayuferdiyanti/)
-[![Email Badge](https://img.shields.io/badge/-Email-red)](mailto:bungaayu9599@gmail.com)
-
+Checkout my [Resume](https://drive.google.com/drive/folders/1Up7lJBY89j99RaIbc7ptm6JzIefMvT0G?usp=share_link)
+<br>
+<br>
+Reach me:
+<br>
 [LinkedIn](https://www.linkedin.com/in/bungaayuferdiyanti/) | 
 [E-mail](mailto:bungaayu9599@gmail.com)
  
