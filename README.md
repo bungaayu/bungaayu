@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff69b4)](https://www.instagram.com/bungaayu.f/)
 
 Thank you for visiting my page!
-<br> I have an interest in Quality Assurance. After graduate from Sriwijaya University, I decided to take part in Alterra Academy bootcamp with a concentration in Quality Assurance Engineering. After doing the bootcamp, I am increasingly interested in Quality Assurance and will continue to study it until I make it my field of work✨
+<br> I have an interest in Quality Assurance. After graduate from Sriwijaya University, I decided to take part in Alterra Academy bootcamp with a concentration in Quality Assurance Engineering. After doing the bootcamp, I am increasingly interested in Quality Assurance and will always learn until I make it be my field of work✨
 
 📝 Checkout my [Resume](https://drive.google.com/drive/folders/1Up7lJBY89j99RaIbc7ptm6JzIefMvT0G?usp=share_link)
  
